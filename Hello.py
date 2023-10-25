@@ -1,3 +1,6 @@
+!pip install langchain
+
+
 # Bring in deps
 import os 
 from apikey import openai_key
