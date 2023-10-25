@@ -1,4 +1,4 @@
-!pip install langchain
+pip install langchain
 
 
 # Bring in deps
