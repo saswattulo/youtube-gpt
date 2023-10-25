@@ -1,5 +1,3 @@
-pip install langchain
-
 
 # Bring in deps
 import os 
