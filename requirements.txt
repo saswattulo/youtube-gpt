@@ -5,3 +5,4 @@ openai
 streamlit>=1.26.0
 langchain>=0.0.217
 streamlit-feedback
+wikipedia
