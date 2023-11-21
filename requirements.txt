@@ -1,7 +1,6 @@
 altair
 numpy
 pandas
-os
 openai
 streamlit>=1.26.0
 langchain>=0.0.217
