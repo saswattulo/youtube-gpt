@@ -1,12 +1,8 @@
 altair
 numpy
 pandas
-pydeck
 os
 openai
 streamlit>=1.26.0
 langchain>=0.0.217
-duckduckgo-search
-anthropic>=0.3.0
-trubrics>=1.4.3
 streamlit-feedback
